@@ -11,6 +11,8 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.TimeZone;
 
+//Simulación de la implementación del caso de uso 21 - Rol:AS
+
 public class DateUtils {
 
     //private static final String FORMAT_DATE="dd-MMM-yyyy,hh:mm aa";
