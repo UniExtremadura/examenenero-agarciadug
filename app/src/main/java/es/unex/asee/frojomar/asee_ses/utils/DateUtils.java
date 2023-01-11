@@ -16,6 +16,7 @@ import java.util.TimeZone;
 //Simulación de la implementación del caso de uso 18 - Rol: DS
 //Simulación de la implementación del caso de uso 18 - Rol: DJ
 //Simulación de la integración del caso de uso 18 - Rol: DJ
+//Simulación de la integración del caso de uso 18 - Rol: AS
 
 public class DateUtils {
 
